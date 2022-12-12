@@ -2,7 +2,8 @@
 - 👀 I’m interested in playing codes based on different platforms but mainly I'm working on React Native Projects as a Full Stack Developer and SQA Tester.
 - 🌱 I’m currently learning, polishing and improving my skills to get better and better and better and better... We all are in never ending learning phases.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ---> Whatsapp: +923067869750 , Facebook: https://web.facebook.com/786.Muhammad.Rizwan.Ahmad.7869750/ ,
+      Instagram: rizwan7869750 , twitter: rizwan7869750
 
 <!---
 M-Rizwan-Dev/M-Rizwan-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
